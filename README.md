@@ -1,7 +1,9 @@
-Laptop Data Preprocessing and Analysis For a Bangladeshi website : startech.com.bd
+**Laptop Data Preprocessing and Analysis** 
+
+For a Bangladeshi website : startech.com.bd
 This project involves scraping laptop data from a website, preprocessing the scraped data to extract relevant features, analyzing the preprocessed data to extract insights, and interacting with a SQLite database to store and query the data.
 
-Overview
+**Overview**
 The goal of this project is to gather data about laptops from an online retailer, preprocess the data to extract useful information such as specifications and prices, analyze the preprocessed data to uncover insights like popular brands and average prices, and finally store the data in a SQLite database for future use.
 
 Components
